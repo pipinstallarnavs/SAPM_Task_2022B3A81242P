@@ -7,5 +7,7 @@ This image is for the regression of BSE Index upon M1. Value of M1 has been scal
 ![Image description](./LR_m1.png)
 
 
-The below image is for the regression of BSE Index upon M2. Value of M1 has been scaled down to ensure a good fit for the model.
+
+
+The below image is for the regression of BSE Index upon M2. Value of M2 has been scaled down to ensure a good fit for the model.
 ![Image description](./L2_M1.png)
