@@ -3,4 +3,4 @@ Linear regressions were run for BSE Stock Index upon Money Supply factors M1 and
 
 The linear regressions were done for both variables separately
 
-![Image description](./Screenshot 2024-03-30 213156.png)
+![Image description](./LR_m1.png)
